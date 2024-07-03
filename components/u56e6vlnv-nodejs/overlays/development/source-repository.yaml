@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: u56e6vlnv-nodejs-repository
+spec:
+  url: https://github.com/rhtap-hub/u56e6vlnv-nodejs
